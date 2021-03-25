@@ -6,4 +6,4 @@
   : Python을 통한 데이터 크롤링, list와 set, api 이용하기, 메일 보내기
 
 - 3주차
-  : 간단한 tensorflow 사용, 경사하강법, 회귀
+  : tensorflow 사용, 경사하강법, 회귀, 신경망 층 쌓기
