@@ -9,4 +9,4 @@
   : tensorflow 사용, 경사하강법, 회귀, 신경망 층 쌓기
   
 - 4주차
-  : classification, 교차 엔트로피
+  : classification, 교차 엔트로피, Sigmoid, Softmax
