@@ -18,4 +18,4 @@
   : CNN, VGGNet, OpenCV
 
 - 7주차
-  : CNN, 자연어 처리
+  : CNN, 자연어 처리, OpenCV
